@@ -1,0 +1,15 @@
+# Reference environment
+# Operating system: Ubuntu 22.04.1 LTS, Linux kernel 6.8.0-85-generic
+# Python: 3.10.8
+# CUDA: 12.4
+# cuDNN: 9.1.0
+# GPU: NVIDIA GeForce RTX 4070 Ti
+# NVIDIA driver: 535.171.04
+torch==2.6.0
+numpy==1.26.4
+pandas==1.4.2
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.4.3
+tqdm==4.67.3
+rdkit==2024.3.2
